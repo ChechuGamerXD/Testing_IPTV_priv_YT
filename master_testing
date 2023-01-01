@@ -394,19 +394,19 @@
 			"isHost": "true"
                  }, {
                     "name": "Canal 9 [ESPN]",
-                    "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
+                    "image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
                     "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
                      "referer": "https://bahiadeportes.com/",  
 					"isHost":true
                  },{
                     "name": "Canal 10 [ESPN2]",
-                    "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
+                    "image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
                      "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
 		     "referer" : "https://bahiadeportes.com/",
             "isHost" : "true"
                   },{
                     "name": "Canal 11 [ESPN3]",
-                    "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
+                    "image": "https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",
                    "url": "https://wigistream.to/embed/4k6pemfpmp",
                  "referer" : "https://pelotero.net/",
                      "isHost" : "true"
