@@ -347,19 +347,19 @@
 		"info": "",
 		"stations": [{
 		    "name": "Canal 1",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			"image": "https://i.ibb.co/Y7VJCtQ/M-D-Fondo.png",
 			 "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
                      }, {
 		   "name": "Canal 2",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			"image": "https://i.ibb.co/37Hd4QG/M-D-Sin-Fondo.png",
 			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
 	             }, {
 			"name": "Canal 3",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			"image": "https://i.ibb.co/vhdTp4G/M-D-Sin-Fondo2.png",
 			"url" : "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
 			 "referer": "https://l1l1.to/",
              "isHost": "true"  
