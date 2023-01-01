@@ -19,12 +19,196 @@
 	"name": "Zona Movistar+",
 		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
 		"info": "",
-		"stations": [{}]
+		"stations": [{
+			"name": "Gol Mundial",
+		   "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
+		  "url" : "https://utopianwilderness.com/embed/datzi6",
+		   "referer" : "https://starlive.xyz/",
+		   "isHost":"true"
+			  }, {
+			"name": "Gol Mundial",
+		   "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
+	   "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
+		   "referer" : "https://starlive.xyz/",
+		   "isHost":"true"
+		   }, {
+				  "name": "Vamos.",
+		   "image": "https://i.ibb.co/CvrpGn2/vamos.gif",
+						 "url" : "http://xone8.1222908.net/live/56D7FC4DEA1AB1808B179B70DA7A2619/337813.m3u8",
+			"userAgent" : "PlusMediaPlayer/0.0.9"
+		  }, {
+			"name": "Vamos",
+		   "image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
+		   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
+			"referer":"https://1stream.buzz/",
+				   "isHost":"true"
+			 }, {
+				"name": "Movistar Campeones",
+				"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
+		 "url" : "http://31.172.87.39:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHtgcg%3D%3D",
+		 "userAgent" : "Rediptv Plus"
+						 }, {
+				"name": "Movistar Campeones",
+				"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
+		 "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
+				  "referer" : "https://starlive.xyz/",
+				"isHost" : "true"
+			}, {
+				"name": "Movistar Campeones",
+				"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
+				"url": "https://voraciousglove.net/embed/opthng68di66m",
+				 "referer" : "https://streamonsport44.buzz/",
+							 "isHost" : "true"
+			 }, {
+				"name": "Movistar Deportes",
+				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				 "url": "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323634",
+				 "userAgent" : "PlusMediaPlayer/0.0.9"
+				  }, {  
+				"name": "Movistar Deportes",
+				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
+				 "referer" : "https://1stream.buzz/",
+							 "isHost" : "true"
+			}, {
+				"name": "Movistar Deportes",
+				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				 "url": "https://unbiasedsenseevent.com/embed/h0tx31t",
+				"referer": "https://l1l1.to/",
+				"isHost": "true"
+			 }, {
+				"name": "Movistar Golf",
+				"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
+				"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
+				 "referer" : "https://www.daddylive.link/",
+			   "isHost" : "true"
+				 }, {
+				"name": "M.Toros",
+				"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+				   "url" : "https://deliriousholistic.net/embed/a57mc",
+				   "referer" : "https://verlatelevision.com/",
+				 "ishost" : "true"
+			}, {
+				"name": "M.Toros",
+				"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+			"url": "http://s846397078.mialojamiento.es:80/wf9t/toro.php/mono.m3u8",
+				"userAgent": ""
+			  }, {
+				"name": "M.Toros",
+				"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+		   "url" : "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323637",
+				"userAgent" : "PlusMediaPlayer/0.0.9"
+				}]
 	}, {
 	"name": "Zona DAZN",
 		"image": "https://i.ibb.co/NWLCj63/DAZN-Logo.png",
 		"info": "",
-		"stations": [{}]
+		"stations": [{
+			"name": "Dazn 1",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+						 "url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
+		"referer" : "https://starlive.xyz/",
+			   "isHost" : "true"
+				  }, {
+			   "name": "Dazn 1",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		  "url": "https://unbiasedsenseevent.com/embed/65mfc98diz3a6l7",
+	   "referer": "https://l1l1.to/",
+		"isHost": "true"
+			  }, {
+			   "name": "Dazn 1",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://voraciousglove.net/embed/h5m4gyv36vtc",
+	   "referer": "https://streamonsport.ru/",
+		"isHost": "true"
+	   }, {
+			   "name": "Dazn 1",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://onionstream.live/embed/dazn1-es.php",
+	   "isHost": "true"
+				 }, {
+	   "name": "Dazn 1",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		"url" : "https://voraciousglove.net/embed/hx3rxisbvjycuk",
+		"referer": "https://1stream.buzz/",
+		"isHost": "true"
+		},{ 
+			"name": "Dazn 2",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://utopianwilderness.com/embed/vwtuk5h",
+	   "referer": "https://starlive.xyz/",
+		"isHost": "true"
+			   },{ 
+			"name": "Dazn 2",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://unbiasedsenseevent.com/embed/v117h71qbmhj",
+	   "referer": "https://l1l1.to/",
+		"isHost": "true"
+			   },{ 
+			"name": "Dazn 2",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url": "https://w8l5q92ebw68y6.constraindefiant.net/embed/xmr0xxbbmzod",
+	  "referer": "https://www.streamonsport.click/",
+		"isHost": "true"
+		  },{ 
+			"name": "Dazn 2",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url" : "https://deliriousholistic.net/embed/lup8x",
+		"referer": "https://bahiadeportes.com/",
+		"isHost": "true"
+			   },{ 
+			"name": "Dazn 2",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url" : "https://onionstream.live/embed/dazn2-es.php",
+		 "isHost" : "true"
+		},{ 
+			"name": "Dazn 3",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
+	   "referer": "https://starlive.xyz/",
+		"isHost": "true"   
+			   },{ 
+			"name": "Dazn 3",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+				"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
+	   "referer" : "https://leet365.cc/",
+	   "isHost":"true"
+			  },{ 
+			"name": "Dazn 3",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			"url": "https://unbiasedsenseevent.com/embed/u2sgi0",
+	   "referer": "https://l1l1.to/",
+		"isHost": "true"
+		  },{ 
+			"name": "Dazn 3",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+				"url": "https://w8l5q92ebw68y6.constraindefiant.net/embed/xvofyfktwqkwrr",
+	  "referer": "https://starlive.xyz/",
+		"isHost": "true" 
+			   },{ 
+			"name": "Dazn 4",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			   "url": "https://2w0160v7u50gwy.constraindefiant.net/embed/w67i2uz",
+				"referer" : "https://streamonsport44.buzz/",
+			   "isHost":"true" 
+		  },{ 
+			"name": "Dazn 4",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+		 "url": "https://utopianwilderness.com/embed/8jqf49em",
+	   "referer": "https://starlive.xyz/",
+		"isHost": "true"  
+		 },{ 
+			"name": "Dazn 4",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url": "https://unbiasedsenseevent.com/embed/u2sgi0",
+			 "referer": "https://l1l1.to/",
+		"isHost": "true"
+				},{ 
+			"name": "Dazn 4",
+			   "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+				"url": "https://gooals.top/tv/albaplayer/stream-448/?serv=1/",
+		"isHost": "true"  
+   }]
 	}, {
 		"name": "Liga NBA",
 		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
@@ -493,12 +677,7 @@
             "name": "Zona DAZN",
             "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
             "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen",
-                    "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          }, {
+            "stations": [ {
                  "name": "Dazn Liga",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                                "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
@@ -510,112 +689,7 @@
 			   "url": "https://warnforlese.net/embed/zbz7klq",
               "referer": "https://macron.xyz/",
              "isHost": "true"
-                 }, {
-                 "name": "Dazn 1",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                              "url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-			 "referer" : "https://starlive.xyz/",
-                    "isHost" : "true"
-                       }, {
-                    "name": "Dazn 1",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			   "url": "https://unbiasedsenseevent.com/embed/65mfc98diz3a6l7",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-	               }, {
-                    "name": "Dazn 1",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://voraciousglove.net/embed/h5m4gyv36vtc",
-			"referer": "https://streamonsport.ru/",
-             "isHost": "true"
-			}, {
-                    "name": "Dazn 1",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://onionstream.live/embed/dazn1-es.php",
-			"isHost": "true"
-                      }, {
-			"name": "Dazn 1",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			 "url" : "https://voraciousglove.net/embed/hx3rxisbvjycuk",
-			 "referer": "https://1stream.buzz/",
-             "isHost": "true"
-			 },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-              "url": "https://utopianwilderness.com/embed/vwtuk5h",
-			"referer": "https://starlive.xyz/",
-             "isHost": "true"
-                    },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-              "url": "https://unbiasedsenseevent.com/embed/v117h71qbmhj",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-                    },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://w8l5q92ebw68y6.constraindefiant.net/embed/xmr0xxbbmzod",
-           "referer": "https://www.streamonsport.click/",
-             "isHost": "true"
-	           },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url" : "https://deliriousholistic.net/embed/lup8x",
-			 "referer": "https://bahiadeportes.com/",
-             "isHost": "true"
-                    },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url" : "https://onionstream.live/embed/dazn2-es.php",
-			  "isHost" : "true"
-		     },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-              "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
-			"referer": "https://starlive.xyz/",
-             "isHost": "true"   
-                    },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
-            "referer" : "https://leet365.cc/",
-            "isHost":"true"
-                   },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                 "url": "https://unbiasedsenseevent.com/embed/u2sgi0",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-	           },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://w8l5q92ebw68y6.constraindefiant.net/embed/xvofyfktwqkwrr",
-           "referer": "https://starlive.xyz/",
-             "isHost": "true" 
-                    },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url": "https://2w0160v7u50gwy.constraindefiant.net/embed/w67i2uz",
-                     "referer" : "https://streamonsport44.buzz/",
-                    "isHost":"true" 
-		       },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-              "url": "https://utopianwilderness.com/embed/8jqf49em",
-			"referer": "https://starlive.xyz/",
-             "isHost": "true"  
-		      },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://unbiasedsenseevent.com/embed/u2sgi0",
-                  "referer": "https://l1l1.to/",
-             "isHost": "true"
-                     },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://gooals.top/tv/albaplayer/stream-448/?serv=1/",
-             "isHost": "true"  
-		}]
+                 }]
 	}, {
 		"name": "Motor mix",
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
@@ -1255,33 +1329,10 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
             "isHost" : "true" 
 	     }]
 	}, {
-		"name": "Deport-mix",
+		"name": "Mix-Canales",
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
 		"info": "",
 		"stations": [{
- 			"name": "Gol Mundial",
-			"image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
-           "url" : "https://utopianwilderness.com/embed/datzi6",
-	        "referer" : "https://starlive.xyz/",
-            "isHost":"true"
-               }, {
- 			"name": "Gol Mundial",
-			"image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
-        "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
-	        "referer" : "https://starlive.xyz/",
-            "isHost":"true"
-	        }, {
-                   "name": "Vamos.",
-			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://xone8.1222908.net/live/56D7FC4DEA1AB1808B179B70DA7A2619/337813.m3u8",
-             "userAgent" : "PlusMediaPlayer/0.0.9"
-           }, {
- 			"name": "Vamos",
-			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-            "url": "https://parsimoniousinvincible.net/embed/rq4g6",
-			 "referer":"https://1stream.buzz/",
-                    "isHost":"true"
-              }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
        	"url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
@@ -1362,40 +1413,6 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
        			 "url": "https://gooals.top/tv/albaplayer/stream-2/?serv=1/",
              "isHost": "true"
 		}, {
-			"name": "Movistar Campeones",
-            "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url" : "http://31.172.87.39:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHtgcg%3D%3D",
-     "userAgent" : "Rediptv Plus"
-                     }, {
-			"name": "Movistar Campeones",
-            "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
-			  "referer" : "https://starlive.xyz/",
-			"isHost" : "true"
-        }, {
-			"name": "Movistar Campeones",
-			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-			"url": "https://voraciousglove.net/embed/opthng68di66m",
-			 "referer" : "https://streamonsport44.buzz/",
-                         "isHost" : "true"
-         }, {
-			"name": "Movistar Deportes",
-			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323634",
-			 "userAgent" : "PlusMediaPlayer/0.0.9"
-			  }, {  
-			"name": "Movistar Deportes",
-			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
-			 "referer" : "https://1stream.buzz/",
-                         "isHost" : "true"
-        }, {
-			"name": "Movistar Deportes",
-			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "https://unbiasedsenseevent.com/embed/h0tx31t",
-			"referer": "https://l1l1.to/",
-			"isHost": "true"
-         }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
 			 "url": "https://gooals.top/tv/albaplayer/stream-530/?serv=1/",
@@ -1443,28 +1460,6 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 			"referer": "http://cricfree.live/",
              "isHost": "true"
                 }, {
-			"name": "Movistar Golf",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
-			 "referer" : "https://www.daddylive.link/",
-           "isHost" : "true"
-             }, {
-			"name": "M.Toros",
-			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-               "url" : "https://deliriousholistic.net/embed/a57mc",
-               "referer" : "https://verlatelevision.com/",
-			 "ishost" : "true"
-		}, {
-			"name": "M.Toros",
-			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-        "url": "http://s846397078.mialojamiento.es:80/wf9t/toro.php/mono.m3u8",
-            "userAgent": ""
-	      }, {
-			"name": "M.Toros",
-			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323637",
-            "userAgent" : "PlusMediaPlayer/0.0.9"
-			}, {
 			"name": "Toros Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
@@ -1767,20 +1762,5 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                 "url": "https://pahaplayers.click/ch/pahe096ch.php",
              "isHost": "true"  
 			  }]
-			}, {
-		"name": "--------",
-		"image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
-		"info": "",
-		"stations": [{
-			               "name": "--------",
-                     "image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
-                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
-               "referer" : "https://verlatelevision.com/",
-			 "ishost" : "true"  
-			 }, {
-			 "image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
-              "url" : "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/337812.m3u8",
-             "userAgent" : "PlusMediaPlayer/0.0.9"
-		}]
-	}]
+			}]
 }
