@@ -25,12 +25,12 @@
 			"userAgent": ""
 		}, {
 			"name": "Canal 1",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
           "name": "Canal 2",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"image": "https://i.ibb.co/jVB1bwy/NBA-Logo.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
