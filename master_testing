@@ -754,7 +754,7 @@
 					  
 					  {
 						"name": "Premier League",
-						"image": "https://i.ibb.co/QJX74Vq/premier1.jpg",
+						"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
 						"info": "",
 						"stations": [{
 							 "name": "Canal 1",
@@ -803,7 +803,7 @@
 					
 					{
 						"name": "Bundesliga",
-						"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+						"image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
 						"info": "",
 						"stations": [{
 							 "name": "Canal 1",
@@ -858,7 +858,7 @@
 					
 					{
 						"name": "Serie A",
-						"image": "https://cdn.forzaitalianfootball.com/wp-content/uploads/2020/03/serie-a.png",
+						"image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png",
 						"info": "",
 						"stations": [{
 						   "name": "Canal 1",
@@ -919,7 +919,7 @@
 						 
 						 {
 						"name": "Serie B",
-						"image": "https://dlprivateserver.com/wp-content/uploads/2020/08/FIFA-21-la-Serie-B-podr%C3%ADa-ser-excluida-de-la.jpg",
+						"image": "https://i.ibb.co/X4xBL3R/logo-Serie-B.png",
 						"info": "",
 						"stations": [{
 						 "name": "",
@@ -1353,7 +1353,7 @@
 						  
 						  {
 							"name": "Tenis",
-							"image": "https://thumbs.dreamstime.com/b/pelota-de-tenis-en-el-fuego-20121872.jpg",
+							"image": "https://i.ibb.co/k9jsH3j/logo-Tenis.webp",
 							"info": "",
 							"stations": [{
 								"name": "Canal 1",
@@ -1437,7 +1437,7 @@
 					}]
 					   }, {
             "name": "Rugby [NFL]",
-            "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
+            "image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
             "info": "",
             "stations": [{
 	     "name": "Canal 1",
@@ -1522,7 +1522,7 @@
 		}]
 		 	}, {
 				"name": "Hockey [NHL]",
-				"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+				"image": "https://i.ibb.co/868xpk5/logo-NHL.png",
 				"info": "",
 				"stations": [{
 				"name": "Canal 1",
@@ -1597,7 +1597,7 @@
 			}]
 				 }, {
 		"name": "Canales-mix",
-		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
+		"image": "https://i.ibb.co/qBYDDDJ/variados-2.jpg",
 		"info": "",
 		"stations": [{
 				"name": "Telemadrid",
