@@ -474,22 +474,22 @@
 	 "isHost": "true"  
 	 }, {
 		"name": "Eurosport 1",
-		"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
 	 "url": "https://piratilla2.xyz/837173/hls/eurosport1.m3u8",
 		 "userAgent": ""
 	}, {
 		"name": "Eurosport 1",
-		"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
 		"url": "https://assia24.com/live2/mix-sport6/?lang=pl",
 		 "isHost": "true"
 	}, {
 		"name": "Eurosport 2",
-		"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",
 		"url" : "https://piratilla2.xyz/837173/hls/eurosport2.m3u8",
 		"userAgent": ""
 	}, {
 		"name": "Eurosport 2",
-		"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",
 		 "url": "https://pahaplayers.click/ch/pahe058ch.php",
 		 "isHost": "true"
 	}]
