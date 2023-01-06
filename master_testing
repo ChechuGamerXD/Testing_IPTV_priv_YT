@@ -25,13 +25,13 @@
 		"info": "",
 		"stations": [{
 			"name": "Gol Mundial",
-		   "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
+		   "image": "https://golmundial.com/meta-image.jpg",    
 		  "url" : "https://utopianwilderness.com/embed/datzi6",
 		   "referer" : "https://starlive.xyz/",
 		   "isHost":"true"
 			  }, {
 			"name": "Gol Mundial",
-		   "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",    
+		   "image": "https://golmundial.com/meta-image.jpg",    
 	   "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
 		   "referer" : "https://starlive.xyz/",
 		   "isHost":"true"
@@ -215,36 +215,36 @@
 							 "isHost": "true"  
 								  }, {
 				"name": "Movistar Deportes",
-				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png",
 				 "url": "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323634",
 				 "userAgent" : "PlusMediaPlayer/0.0.9"
 				  }, {  
 				"name": "Movistar Deportes",
-				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png",
 				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
 				 "referer" : "https://1stream.buzz/",
 							 "isHost" : "true"
 			}, {
 				"name": "Movistar Deportes",
-				"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png",
 				 "url": "https://unbiasedsenseevent.com/embed/h0tx31t",
 				"referer": "https://l1l1.to/",
 				"isHost": "true"
 			 }, {
 				"name": "Movistar Golf",
-				"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png",
 				"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
 				 "referer" : "https://www.daddylive.link/",
 			   "isHost" : "true"
 				 }, {
 				"name": "M.Toros",
-				"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png",
 				   "url" : "https://deliriousholistic.net/embed/a57mc",
 				   "referer" : "https://verlatelevision.com/",
 				 "ishost" : "true"
 			}, {
 				"name": "M.Toros",
-				"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png",
 			"url": "http://s846397078.mialojamiento.es:80/wf9t/toro.php/mono.m3u8",
 				"userAgent": ""
 			  }, {
