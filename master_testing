@@ -8,15 +8,13 @@
     "groups": [{
              "name": "FUTBOL-ADICTOS",
             "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
-            "info": "",
-            "stations": []
+            "info": ""
 	}, 
 	
 	{
              "name": "Ultm. versión 03/01/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/01/2023",
-            "stations": []
+            "info": "última versión actualizada el 03/01/2023"
 	},
 	
 	{
