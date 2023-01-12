@@ -10,8 +10,13 @@
             "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
             "info": "",
 	    "stations": [{
-			"name": "Telegram",
-		   "image": "https://i.ibb.co/wNTM4Nq/Oficial-Logo-testing.png",    
+			"name": "Grupo Oficial",
+		   "image": "https://i.ibb.co/BP80Qsx/main-pic.png",    
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		  "embed": "true"},
+		  {
+			"name": "Grupo Soporte",
+		   "image": "https://i.ibb.co/rM35rw9/jugones-pic.png",    
 		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
 		  "embed": "true"}]
 	}, 
