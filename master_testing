@@ -12,14 +12,14 @@
 	    "stations": [{
 			"name": "Telegram",
 		   "image": "https://i.ibb.co/wNTM4Nq/Oficial-Logo-testing.png",    
-		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0"}]
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		  "isHost":"true"}]
 	}, 
 	
 	{
              "name": "Ultm. versión 03/01/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/01/2023",
-	    "stations": [{}]
+            "info": "última versión actualizada el 03/01/2023"
 	},
 	
 	{
