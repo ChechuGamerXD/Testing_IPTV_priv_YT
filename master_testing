@@ -10,12 +10,9 @@
             "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
             "info": "",
 	    "stations": [{
-			"name": "Gol Mundial",
-		   "image": "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/22022.png",    
-		  "url" : "https://utopianwilderness.com/embed/datzi6",
-		   "referer" : "https://starlive.xyz/",
-		   "isHost":"true"
-			  }]
+			"name": "Telegram",
+		   "image": "https://i.ibb.co/wNTM4Nq/Oficial-Logo-testing.png",    
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0"}]
 	}, 
 	
 	{
