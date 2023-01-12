@@ -13,7 +13,7 @@
 			"name": "Telegram",
 		   "image": "https://i.ibb.co/wNTM4Nq/Oficial-Logo-testing.png",    
 		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
-		  "isHost":"true"}]
+		  "embed": "true"}]
 	}, 
 	
 	{
