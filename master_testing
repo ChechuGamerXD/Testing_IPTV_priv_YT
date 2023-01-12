@@ -11,7 +11,8 @@
             "info": "",
 	    "stations": [{"name": "Telegram",
 		   "image": "https://i.ibb.co/9cXNv58/Oficial-Logo.png",    
-		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0"}]
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		  "isHost":"true"}]
 	}, 
 	
 	{
