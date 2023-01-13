@@ -34,9 +34,7 @@
 		"stations": [{
 			"name": "Gol Mundial",
 		   "image": "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/22022.png",    
-		  "url" : "https://utopianwilderness.com/embed/datzi6",
-		   "referer" : "https://starlive.xyz/",
-		   "isHost":"true"
+		  "url" : ""
 			  }, {
 			"name": "Gol Mundial",
 		   "image": "https://mir-s3-cdn-cf.behance.net/projects/404/6b8060159227539.Y3JvcCw5NTEsNzQzLDAsNDI2.png",    
