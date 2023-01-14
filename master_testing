@@ -1608,17 +1608,16 @@
 		"stations": [{
 				"name": "Telemadrid",
 				"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
-			"url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
-				"userAgent": ""     
+			"url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8"
 			 }, {
-			"name": "Gol TV",
+			"name": "Teledeporte",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			 "url": "https://gooals.top/tv/albaplayer/stream-530/?serv=1/",
+			 "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
              "isHost": "true"
 		}, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
-			"url": "http://168.194.171.33:8000/play/a01b/index.m3u8",
+			"url": "https://piratilla2.xyz/749801/hls/gol.m3u8",
               "userAgent": ""
            }, {
 			"name": "Teledeporte",
@@ -1647,7 +1646,7 @@
 			"userAgent": ""
                       }, {
 			"name": "Real Betis TV",
-			"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
+			"url": "https://betistv-live.flumotion.com/Z1HHks39uRmPTouiHBX3GQ/1673631903/betistv/live_all/playlist.m3u8",
 			"image": "https://www.neeo.es/wp-content/uploads/2017/06/Betis-TV.jpg",
 			"isHost": "true"
 			}, {
@@ -1656,20 +1655,19 @@
 			"image": "https://sevillafc.es/sites/default/files/news/image/AAFF%20RGB%20Televisi%C3%B3n%20Sevilla%20FC.jpg",
 			"userAgent": "" 
                      }, {
-			"name": "sky-sports-golf",
+			"name": "La 1",
 			"image": "https://pbs.twimg.com/profile_images/1483402337595146244/BR5KEAB2_400x400.jpg",
-			 "url": "http://cricplay2.xyz/link3/sky-sports-golf",
-			"referer": "http://cricfree.live/",
+			 "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
              "isHost": "true"
                 }, {
-			"name": "Bein Sport ñ",
+			"name": "La 2",
              "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
-           "url" :  "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
+           "url" :  "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
 			 "userAgent": ""
                       }, {
-                    "name": "ESPN-Argentina HD",
+                    "name": "24h",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                "url": "http://168.194.171.33:8000/play/a01a/index.m3u8",
+                "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
 			 "userAgent" : ""
                     },{
                     "name": "ESPN-Argentina HD",
