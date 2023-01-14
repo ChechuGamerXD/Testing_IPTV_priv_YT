@@ -1613,7 +1613,7 @@
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
 			 "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-             "isHost": "true"
+             "userAgent": ""
 		}, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
@@ -1623,7 +1623,7 @@
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
 			"url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
+			"userAgent": ""
 		}, {
 			"name": "Real MAdrid TV",
 			"userAgent": "",
@@ -1648,7 +1648,7 @@
 			"name": "Real Betis TV",
 			"url": "https://betistv-live.flumotion.com/Z1HHks39uRmPTouiHBX3GQ/1673631903/betistv/live_all/playlist.m3u8",
 			"image": "https://www.neeo.es/wp-content/uploads/2017/06/Betis-TV.jpg",
-			"isHost": "true"
+			"userAgent": ""
 			}, {
 			"name": "Sevilla TV",
 			"url": "https://streamamg-sevil01.akamaized.net/hls/live/2039253/0_wzckw85c/hdntl=exp=1671218433~acl=%2f*~data=hdntl~hmac=53d52fbd845cb693c2f7824780d849d99aeb1b3a3a3e64baafddb3c3dcc2f15f/bitrate_1.m3u8",
