@@ -1606,70 +1606,56 @@
 		"image": "https://i.ibb.co/34k63GW/variados-1.jpg",
 		"info": "",
 		"stations": [{
-				"name": "Telemadrid",
-				"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
-			"url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8"
-			 }, {
-			"name": "Teledeporte",
-			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			 "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-             "userAgent": ""
+			"name": "TV España",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
+			"info": "",
+			"stations": [{
+							 "name": "La 1",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg",
+							"url":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
+							"userAgent" : ""
+						  }, {
+							"name": "La 2",
+						   "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg",
+						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Telemadrid",
+						   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png",
+						   "url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "24h",
+						   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Teledeporte",
+						   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
+						   "url":"https://ztnr.rtve.es/ztnr/1712295.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Gol Play",
+						   "image": "https://assets.laliga.com/assets/2022/09/07/large/5a8d201cd3398a1ef3c44bb717aca57d.png",
+						   "url":"https://piratilla2.xyz/749801/hls/gol.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Real Madrid",
+						   "image": "https://airfiberaljarafe.es/wp-content/uploads/2021/09/REALMADRID-TV.png",
+						   "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Barcelona",
+						   "image": "https://pbs.twimg.com/profile_images/1583028176413986816/Rwm5YcZA_400x400.jpg",
+						   "url":"http://154.62.74.29:1935/live/barza/chunklist.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Esport 3",
+						   "image": "https://airfiberaljarafe.es/wp-content/uploads/2021/09/ESPORT-3.png",
+						   "url":"https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+						   "userAgent" : ""
+						 }]
 		}, {
-			"name": "Gol TV",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
-			"url": "https://piratilla2.xyz/749801/hls/gol.m3u8",
-              "userAgent": ""
-           }, {
-			"name": "Teledeporte",
-			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
-			"url": "https://www.rtve.es/directo/teledeporte/",
-			"userAgent": ""
-		}, {
-			"name": "Real MAdrid TV",
-			"userAgent": "",
-			"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-			"image": "https://i.ibb.co/SySS6Yj/Real-Madrid.gif"
-		}, {
-			"name": "Barça TV",
-			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "http://154.62.74.29:1935/live/barza/chunklist.m3u8",
-             "userAgent": ""     
-		}, {
-			"name": "Barça TV",
-			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "https://livetvon.click/stream/stream-522.php",
-             "isHost": "true"
-		}, {
-			"name": "Esport 3",
-			"url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
-			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
-			"userAgent": ""
-                      }, {
-			"name": "Real Betis TV",
-			"url": "https://betistv-live.flumotion.com/Z1HHks39uRmPTouiHBX3GQ/1673631903/betistv/live_all/playlist.m3u8",
-			"image": "https://www.neeo.es/wp-content/uploads/2017/06/Betis-TV.jpg",
-			"userAgent": ""
-			}, {
-			"name": "Sevilla TV",
-			"url": "https://streamamg-sevil01.akamaized.net/hls/live/2039253/0_wzckw85c/hdntl=exp=1671218433~acl=%2f*~data=hdntl~hmac=53d52fbd845cb693c2f7824780d849d99aeb1b3a3a3e64baafddb3c3dcc2f15f/bitrate_1.m3u8",
-			"image": "https://sevillafc.es/sites/default/files/news/image/AAFF%20RGB%20Televisi%C3%B3n%20Sevilla%20FC.jpg",
-			"userAgent": "" 
-                     }, {
-			"name": "La 1",
-			"image": "https://pbs.twimg.com/profile_images/1483402337595146244/BR5KEAB2_400x400.jpg",
-			 "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
-             "isHost": "true"
-                }, {
-			"name": "La 2",
-             "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
-           "url" :  "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
-			 "userAgent": ""
-                      }, {
-                    "name": "24h",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-			 "userAgent" : ""
-                    },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                   "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
