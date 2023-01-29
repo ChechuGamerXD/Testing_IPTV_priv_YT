@@ -1,13 +1,13 @@
 {
 	"name": "IPT-Adictos [TESTING]",
     "author": "MoDz",
-    "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+    "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
     "info": "IPTV oficial de FUTBOL-ADICTOS",
     "telegram": "+GLnUVPEyXiU5Y2U0",
     "url": "https://raw.githubusercontent.com/MoDz17/Testing_IPTV/main/master_testing?token=GHSAT0AAAAAAB4YY72NB3HTFEODM2SH5UWEY5KCS7A",
     "groups": [{
              "name": "FUTBOL-ADICTOS",
-            "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+            "image": "https://i.ibb.co/ncqsL9X/Pic-Profile-N.png",
             "info": "",
 	    "stations": [{
 			"name": "Grupo Oficial",
