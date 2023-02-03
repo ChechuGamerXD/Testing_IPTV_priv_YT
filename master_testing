@@ -1837,6 +1837,36 @@
 							"image": "https://cdn-1.motorsport.com/images/amp/2wBxzn80/s1000/horarios-del-gp-de-abu-dhabi-d.jpg",
 							 "url" : "https://uqload.com/sw4yf34mwidf",
 							"userAgent": "true"  
-			 				 }]
+			 				 },{
+		"name": "Canal Testing",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://303639603345321068.discoveryapp.xyz:80/play/vc08204/6686316795/321068.ts",
+             	"userAgent": ""
+	}, {
+		"name": "Canal Testing 2",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://303639603345321069.discoveryapp.xyz:80/play/vc08204/6686316795/321069.ts",
+             	"userAgent": ""
+	}, {
+		"name": "Canal Testing 3",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://303639603345321070.discoveryapp.xyz:80/play/vc08204/6686316795/321070.ts",
+             	"userAgent": ""
+	}, {
+		"name": "Canal Testing 4",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://supercamp.cfd:8080/live/591666542695152031/3841666542695152/5546.ts",
+             	"userAgent": ""
+	}, {
+		"name": "Canal Testing 5",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://sintoniaideal.com:2052/adminpl/5nCayEey437G/3049",
+             	"userAgent": ""
+	}, {
+		"name": "Canal Testing 6",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "http://sintoniaideal.com:2052/adminpl/5nCayEey437G/330312",
+             	"userAgent": ""
+	}]
 		}]
 }
