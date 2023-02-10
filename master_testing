@@ -1855,9 +1855,8 @@
 	}, {
 		"name": "Testing logo",
 		"image": "https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
-		"url": "https://www.youtube.com/watch?v=wOIEHojerwM",
-             	"userAgent": "",
-		"embed": "true"
+		"url": "http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts",
+             	"userAgent": ""
 	}, {
 		"name": "[VK MAX] F1 Testing",
 		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
@@ -1869,10 +1868,10 @@
 		"url": "https://vk.com/video739310848_456239017",
              	"embed": "true"
 	}, {
-		"name": "------",
+		"name": "Testing",
 		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://uqload.co/it1o69xr13uq",
-             	"userAgent": "true"
+		"url": "http://edge5203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8",
+             	"userAgent": ""
 	}]
 		}]
 }
