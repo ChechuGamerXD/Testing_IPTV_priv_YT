@@ -1848,13 +1848,13 @@
 		"url": "http://nbr1.co:8000/giancarlo/giancarlo/30015",
              	"userAgent": ""
 	}, {
-		"name": "Canal Testing 2",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"name": "Testing logo",
+		"image": "https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Youtube_svg-512.png",
 		"url": "http://nbr1.co:8000/giancarlo/giancarlo/30015",
              	"userAgent": "true"
 	}, {
-		"name": "F1 Testing 3",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"name": "Testing logo",
+		"image": "https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
 		"url": "https://www.youtube.com/watch?v=wOIEHojerwM",
              	"userAgent": "",
 		"embed": "true"
