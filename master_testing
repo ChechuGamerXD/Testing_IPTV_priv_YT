@@ -1843,9 +1843,9 @@
 							 "url" : "https://uqload.com/sw4yf34mwidf",
 							"userAgent": "true"  
 			 				 },{
-		"name": "Canal Testing",
+		"name": "Testing bTV",
 		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "http://54.37.255.204:9977/live/rosendo/iptv/37090.m3u8",
+		"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
              	"userAgent": ""
 	}, {
 		"name": "Testing logo",
