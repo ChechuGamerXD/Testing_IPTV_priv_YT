@@ -22,9 +22,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 01/01/2023",
+             "name": "Ultm. versión --/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 01/01/2023"
+            "info": "última versión actualizada el --/--/2023"
 	},
 	
 	{
@@ -1784,6 +1784,44 @@
 			"isHost": "true"
 		}]
 		}, {
+        "name":"En diferido",
+    "image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
+    "groups":
+    [
+        {
+            "name":"UFC",
+            "image":"https://i.ibb.co/S5NN7p3/logo-ufc.png",
+            "stations": 
+            [
+                {
+                "name": "Makhachez vs Volkanovski",
+		        "image": "https://i.ibb.co/51LsJfL/Makha-Volka284.jpg",
+		        "url": "https://vk.com/video739310848_456239020",
+             	"embed": "true"
+                },
+                {
+                "name": "Rodríguez vs Emmett",
+                "image": "https://i.ibb.co/NK0CNN7/Rodri-Emme284.jpg",
+                "url": "https://vk.com/video739310848_456239019",
+                "embed": "true"
+                }
+            ]
+        },
+        {
+            "name":"Fórmula 1",
+            "image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
+            "stations": 
+            [
+                {
+                "name": "Gran Bretaña 2022",
+		        "image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
+		        "url": "https://vk.com/video739310848_456239018",
+		        "embed": "true"
+                }
+            ] 
+        }
+    ]
+    }, {
 			"name": "TV España",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
 			"info": "",
