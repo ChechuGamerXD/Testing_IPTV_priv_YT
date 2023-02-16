@@ -1788,21 +1788,21 @@
     "image":"https://i.ibb.co/hCsX9VM/logo-diferido.png",
     "groups":
     [
-        {
+    	{
+		"name": "     ↑  ↑  ↑",
+	   	"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
+	  	"url" : ""
+  	}, {
+		"name": "Peticiones",
+	   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+	  	"url" : "https://discord.gg/phVVJFSR4t",
+	  	"embed": "true"
+	  }, {
             "name":"Fórmula 1",
             "image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
             "stations": 
             [
                {
-		"name": "↑  ↑  ↑",
-	   	"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
-	  	"url" : ""
-		  }, {
-		"name": "Peticiones",
-	   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-	  	"url" : "https://discord.gg/phVVJFSR4t",
-	  	"embed": "true"
-		  }, {
                 "name": "Gran Bretaña 2022",
 		        "image": "https://i.ibb.co/PxWNBH2/miniatura-GB22.jpg",
 		        "url": "https://vk.com/video739310848_456239018",
