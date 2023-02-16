@@ -1789,14 +1789,21 @@
     "groups":
     [
     	{
-		"name": "     ↑  ↑  ↑",
+		"name": "           ↑  ↑  ↑",
 	   	"image": "https://i.ibb.co/xMwGggX/logo-aviso-pc.png",    
 	  	"url" : ""
   	}, {
 		"name": "Peticiones",
 	   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-	  	"url" : "https://discord.gg/phVVJFSR4t",
-	  	"embed": "true"
+	  	"stations": 
+		[
+		{
+		  "name": "Hacer petición",
+		  "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  "url" : "https://discord.gg/phVVJFSR4t",
+		  "embed": "true"
+		  }
+		]
 	  }, {
             "name":"Fórmula 1",
             "image":"https://i.ibb.co/1bpMSRX/logo-f1-2.png",
