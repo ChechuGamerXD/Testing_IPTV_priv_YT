@@ -1819,6 +1819,11 @@
 		        "image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
 		        "url": "https://vk.com/video739310848_456239021",
 		        "embed": "true"
+                }, {
+                "name": "Test YT",
+		        "image": "https://i.ibb.co/C9F6qDj/GP-Monaco.jpg",
+		        "url": "https://youtu.be/2DiP0mMeaT8",
+		        "embed": "true"
                 }
             ] 
         }, {
